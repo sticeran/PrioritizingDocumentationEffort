@@ -1,6 +1,6 @@
-# The replication toolkit for the paper "Prioritizing documentation effort: Can we do it simpler but better?"
+# The data sets, scripts and appendix for the paper "Prioritizing code documentation effort: Can we do it simpler but better?"
 
-## Titile: Prioritizing documentation effort: Can we do it simpler but better?
+## Titile: Prioritizing code documentation effort: Can we do it simpler but better?
 
 Our work studies the effectiveness of the supervised artiﬁcial neural network (ANN) approach and the unsupervised PageRank approach for prioritizing documentation effort.
 
